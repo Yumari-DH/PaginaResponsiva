@@ -1,0 +1,31 @@
+body {
+    --bg-color: #1B1A17;
+    --txt-color: #F0E3CA;
+    --primary-color: #FF8303;
+    --secondary-color: #A35709;
+
+    background-color: var(--bg-color);
+    color: var(--txt-color);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.navbar{
+    background-color: var(--primary-color);
+    position: fixed;
+    color: var(--txt-color);
+}
+
+/* ul.listas{
+    background-color: var(--secondary-color);
+} */
+
+footer{
+    background-color: var(--primary-color);
+    height: 50px;
+}
+
+div.footer{
+    background-color: var(--secondary-color);
+    position: relative;
+    top: 10px;
+}
