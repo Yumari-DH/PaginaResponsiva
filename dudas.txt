@@ -1,0 +1,7 @@
+Dudas de página responsiva:
+1. ¿Si se usa bootstrap ya no es necesario usar CSS?
+2. Las imagenes de las cards tienen tamaños diferentes ¿Cómo hacerlas del mismo tamaño?
+3. Le puse position fixed a la barra de navegación pero se queda detrás de los demás componentes de la página ¿Cómo hacer que esté delante de ellos?
+4. ¿Cómo cambiar el color del bg de las listas y los textos de las cards? 
+5. Definí en el css el color y fuente del texto del body pero no hace ningún cambio, esto se debe hacer con bootstrap? o qué debo agregar en el css para que aplique el cambio?.
+6. Estoy poniendo cada componente de bootstrap dentro de un div content y luego dentro de un div row y luego dentro de un div col-sm, eso es correcto? o solo debo copiar el componente de bootstrap.
